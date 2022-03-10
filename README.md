@@ -1,2 +1,2 @@
 # [WIP]Uniswap in Rust
-Learning purpose only
+For Learning purpose only
